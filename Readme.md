@@ -24,6 +24,7 @@
     ```
     The server will start on `http://localhost:8000`.
 
+
 ### Frontend
 
 1.  Navigate to the `frontend` directory:
